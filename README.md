@@ -19,8 +19,11 @@
 1- mvn clean install (Jar)
 
 2- utiliser le projet comme dépendance en ajoutant au fichier pom.xml : 
+###
     <dependency>
        <groupId>fr.ThinkingPositive.partition</groupId>
        <artifactId>devoirMaison</artifactId>
        <version>1.0</version>
     </dependency>
+
+###
