@@ -3,7 +3,7 @@
 
 # PartitionListLib
  - immuable list
- - the iterator and list iterator are implemented by this AbstractList class...
+ - the iterator and list iterator are implemented by  AbstractList class...
 
 ## instructions 
    
